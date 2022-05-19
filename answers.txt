@@ -1,4 +1,5 @@
-McAlvain-Colin
+Github user name: McAlvain-Colin
+clone: https://github.com/UNR-Teaching/lab-01-McAlvain-Colin
 
 1) Complete
 2) Complete
