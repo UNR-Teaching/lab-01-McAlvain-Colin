@@ -1,0 +1,15 @@
+McAlvain-Colin
+
+1) Complete
+2) Complete
+3) What has changed?
+	-newfile.txt is now listed in the directory. 
+   What do you think the ">" key in the previous statement did when combined with the ls command?	
+	-The ">" creates a new text file named "newfile.txt" populated with the file names in the directory ls is pointing to. If there is already a file named newfile.txt then this command will overright that file. 
+4) Complete
+5) What does the cmd box say about newfile.txt when git status is run?
+	-the cmd box says the branch were working on is up to date with the orgin/master. It gives the option to reset the file back to before the changes were made by using "git reset HEAD <file>". States the new file added. 
+6)What does the command box tell you after you add "This is my file listing" to the top of the newfile.txt?
+	-The git diff command itterates the changes made to the file in green text and the original text in white text. 
+
+
